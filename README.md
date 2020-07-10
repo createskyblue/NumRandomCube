@@ -1,6 +1,6 @@
-![](https://www.arduino.cn/data/attachment/forum/202007/10/112301hb1vnrvcv5zkbo2v.jpg)
+![](https://raw.githubusercontent.com/createskyblue/NumRandomCube/master/%E7%A4%BA%E6%84%8F%E5%9B%BE/%E5%B0%81%E9%9D%A2.JPG)
 # 引脚定义图
-![](https://www.arduino.cn/data/attachment/forum/202007/10/112746im8p8gz2mxrhp8qh.jpg)
+![](https://raw.githubusercontent.com/createskyblue/NumRandomCube/master/%E7%A4%BA%E6%84%8F%E5%9B%BE/%E4%BE%A7%E8%A7%86%E5%9B%BE.JPG)
 # 说明
 亮点1 多阶灰度模拟，用最少的资源做出灰阶光立方
 亮点2 可以使用串口通讯通过光立方的密度、亮度、闪烁频率直观地显示出CPU占用率（可惜视频拍不出这个效果，想感受得自己做一个）
